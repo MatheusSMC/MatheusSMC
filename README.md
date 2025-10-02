@@ -52,7 +52,7 @@ mas na verdade eu utilizo principalmente o **Google Colab 🚀** como ambiente d
 
 ![Snake animation](https://github.com/MatheusSMC/MatheusSMC/blob/output/github-contribution-grid-snake.svg)
 
---
+---
 
 ## 👀 Contador de Visitas  
 
