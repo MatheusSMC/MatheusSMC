@@ -50,7 +50,7 @@ mas na verdade eu utilizo principalmente o **Google Colab 🚀** como ambiente d
 
 ## 🐍 Snake de Commits  
 
-![Snake animation](https://github.com/MatheusSMC/MatheusSMC/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/MatheusSMC/MatheusSMC/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
