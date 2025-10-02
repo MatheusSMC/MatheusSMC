@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="40"/>
 </div>
 
 ---
@@ -33,11 +34,10 @@
 
 ## 📌 Projetos em Destaque
 
-- [📊 Análise de Dados](https://github.com/MatheusSMC/Analise_de_dados) → Estudos e análises em Python + Jupyter
+- [📊 Análise de Dados](https://github.com/MatheusSMC/Analise_de_dados) → Estudos e análises em Python + Google Colab  
 - [🗄️ Estudos SQL](https://github.com/MatheusSMC/estudos-sql) → Praticando comandos básicos de SQL (CREATE, INSERT, SELECT) com MySQL  
 
 ---
 
 ⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela nos repositórios!  
 📩 Estou aberto a colaborações e novos aprendizados.
-
