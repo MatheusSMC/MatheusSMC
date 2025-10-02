@@ -29,7 +29,7 @@
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSMC&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSMC&layout=compact&theme=radical)
 
---
+
 
 ## ℹ️ Observação sobre as linguagens
 
