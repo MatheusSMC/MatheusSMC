@@ -32,6 +32,18 @@
 
 ---
 
+## ℹ️ Observação sobre as linguagens
+
+O GitHub mostra meus notebooks como **Jupyter Notebook** 🟠,  
+mas na verdade eu utilizo principalmente o **Google Colab** 🚀 como ambiente de estudos e desenvolvimento.
+
+<div>
+  <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="40"/>  
+</div>
+
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+---
+
 ## 📌 Projetos em Destaque
 
 - [📊 Análise de Dados](https://github.com/MatheusSMC/Analise_de_dados) → Estudos e análises em Python + Google Colab  
