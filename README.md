@@ -33,18 +33,11 @@
 
 ## 📌 Projetos em Destaque
 
-- [📊 Análise de Dados](https://github.com/MatheusSMC/Analise_de_dados) → Estudos e análises em Python
+- [📊 Análise de Dados](https://github.com/MatheusSMC/Analise_de_dados) → Estudos e análises em Python + Jupyter
 - [🗄️ Estudos SQL](https://github.com/MatheusSMC/estudos-sql) → Praticando comandos básicos de SQL (CREATE, INSERT, SELECT) com MySQL  
 
 ---
 
 ⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela nos repositórios!  
 📩 Estou aberto a colaborações e novos aprendizados.
-
-
----
-
-👉 Esse modelo já deixa seu GitHub profissional, bonito e organizado.
-
-Quer que eu crie também uma versão mais criativa (com animações de GIFs, snake de commits e contador de visitas) pra deixar ainda mais chamativo?
 
