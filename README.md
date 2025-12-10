@@ -44,7 +44,8 @@ mas na verdade eu utilizo principalmente o **Google Colab 🚀** como ambiente d
 ## 📌 Projetos em Destaque  
 
 - [📊 Análise de Dados](https://github.com/MatheusSMC/Analise_de_dados) → Estudos e análises em Python + Google Colab  
-- [🗄️ Estudos SQL](https://github.com/MatheusSMC/estudos-sql) → Praticando comandos básicos de SQL (CREATE, INSERT, SELECT) com MySQL  
+- [🗄️ Estudos SQL](https://github.com/MatheusSMC/estudos-sql) → Praticando comandos básicos de SQL (CREATE, INSERT, SELECT) com MySQL
+-  [🗄️ Sistema de Gestão Academica]([https://github.com/MatheusSMC/estudos-sql](https://github.com/MatheusSMC/Sistema_de_Gestao_Academica/tree/main)) → Banco de dados para gerenciamento de alunos, disciplinas e notas
 
 ---
 
