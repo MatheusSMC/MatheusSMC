@@ -21,6 +21,13 @@
 
 ---
 
+# 🌎 Idiomas
+
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Leitura técnica e escrita | Conversação intermediária
+
+---
+
 # 🛠️ Tecnologias e Ferramentas
 
 ### 📊 Análise de Dados
