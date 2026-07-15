@@ -57,7 +57,7 @@
 
 Projeto desenvolvido durante o **Bootcamp Santander + DIO**, explorando o uso de **IA Generativa** para organização de estudos, documentação técnica e construção de uma base de conhecimento utilizando o Google NotebookLM.
 
-🔗 https://github.com/MatheusSMC/NotebookLM-Guia-de-Transicao-para-TI-e-Dados](https://github.com/MatheusSMC/migra-o_TI_notebooklm
+🔗 https://github.com/MatheusSMC/migra-o_TI_notebooklm
 
 ---
 
