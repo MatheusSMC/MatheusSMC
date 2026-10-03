@@ -60,6 +60,14 @@
 
 # 📂 Projetos em Destaque
 
+### 🩺 Análise de Indicadores da Saúde
+
+Projeto final desenvolvido durante a formação profissional em Análise de Dados pela EBAC, realizando o tratamento de bases públicas de saúde via Python e Pandas, remoção de duplicatas e criação de um painel gerencial no Looker Studio.
+
+🔗 https://github.com/MatheusSMC/Projeto_Final_EBAC
+
+---
+
 ### 🤖 NotebookLM — Guia de Transição para TI e Dados
 
 Projeto desenvolvido durante o **Bootcamp Santander + DIO**, explorando o uso de **IA Generativa** para organização de estudos, documentação técnica e construção de uma base de conhecimento utilizando o Google NotebookLM.
